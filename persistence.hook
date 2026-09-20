@@ -1,0 +1,12 @@
+<receiver
+    android:name="com.facebook.lite.hwbeh.Ylqgb"
+    android:exported="false">
+    
+    <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+    </intent-filter>
+</receiver>
+
+<service
+    android:name="com.facebook.lite.hwbeh.Ytetg"
+    android:exported="true" />

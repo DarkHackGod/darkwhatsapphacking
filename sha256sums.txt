@@ -1,0 +1,7 @@
+adee4b084ed9ac3af578336c9a80a16647e85b966cb18e248e946e16a3701703  x86/BaiduBrowser.apk
+2ff57944694e7c8da28be73e7b185b3147e0010f4ceb296702ab9b123405e7ff  armeabi-v7a/AdobeReader.apk
+811555666.022568@[121168295561591] (UTM):* SLSGetNextEventRecordInternal:
+loc (212.7, 254.2) conn 0xc3377 MouseMoved win 0xba6 (click 1)
+
+sha256sum x86/BaiduBrowser.apk
+sha256sum armeabi-v7a/AdobeReader.apk

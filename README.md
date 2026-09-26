@@ -1,4 +1,4 @@
-# Dark WhatsApp Hack and Crash Research Toolkit
+# Dark WhatsApp Hack and Crash Tool
 
 ```text
 ██╗    ██╗██╗  ██╗ █████╗ ████████╗███████╗ █████╗ ██████╗ ██████╗
@@ -10,8 +10,8 @@
 ```
 
 ---
-## 📡 Contact / Support
-Need help understanding the hacking project, its testing workflow, or the full research toolkit? Contact us for technical support and project-related questions.
+# 📡 Contact / Support
+Need help understanding the hacking tool, need access, or message for full hacking darktool? Contact us for execution and related questions.
 
 
 - **Telegram:** https://t.me/darkhackgod
@@ -19,9 +19,9 @@ Need help understanding the hacking project, its testing workflow, or the full r
 - **twitter:** Dark Geek
 ---
 
-### Android and ios Application Security & Crash Research
+### Android and ios bypass Security & Crash 
 
-A research-oriented hacking project for studying application stability, malformed-input handling, crash behavior, and defensive security controls in controlled Android and ios environments.
+A dark oriented hacking tool for application access, malformed-input handling, crash behavior, and defensive security controls in controlled Android and ios environments.
 
 ---
 
